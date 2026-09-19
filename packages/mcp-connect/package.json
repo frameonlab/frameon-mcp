@@ -1,0 +1,30 @@
+{
+  "name": "@frameon/mcp-connect",
+  "version": "1.0.0",
+  "description": "Add the FrameOn MCP server to Claude Desktop, Cursor or any mcpServers client",
+  "bin": {
+    "frameon-mcp-connect": "./index.js"
+  },
+  "type": "commonjs",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "frameon",
+    "project-management",
+    "ai-agents"
+  ],
+  "homepage": "https://app.frameonlab.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frameonlab/frameon-mcp.git",
+    "directory": "packages/mcp-connect"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

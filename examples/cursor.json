@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "frameon": {
+      "type": "http",
+      "url": "https://api.frameonlab.com/api/v1/mcp"
+    }
+  }
+}
