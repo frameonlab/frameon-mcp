@@ -78,6 +78,7 @@ tool that refuses to say where its edges are gets improvised around, badly.
 | `src/mcp.types.ts` | JSON-RPC 2.0 envelope types and the protocol versions the server echoes |
 | `src/mcp-guide.ts` | the text served at `frameon://guide`, plus the prompt specs |
 | `src/mcp-skills.ts` | the skill playbooks behind `list_skills` / `get_skill` |
+| `.mcp.json` | drop-in client config at the repo root — the Open Plugins entry point |
 | `server.json` | the manifest published to the MCP registry |
 | `docs/tools.md` | the 20 tools, with the descriptions the server advertises |
 | `examples/` | client configuration, ready to paste |
